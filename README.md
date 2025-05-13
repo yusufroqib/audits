@@ -38,9 +38,9 @@ Always seeking new opportunities! Whether it's a job, smart contract development
 
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Yieldoor](https://audits.sherlock.xyz/contests/791) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/2) |   24th   | - |
-|   [Symmio, Staking and Vesting](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/716)    |     -     |      1      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    18th    | - |
-|     [Crestal Network](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/363)     |     1     |      -      |                    [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/363)                     |    12th    | - |
+| [Yieldoor](https://audits.sherlock.xyz/contests/791) |     -     |      1      | [Report](https://github.com/sherlock-audit/2025-02-yieldoor-judging/issues/528) |   24th   | - |
+|   [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838)    |     -     |      1      |                    [Report](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/716)                     |    18th    | - |
+|     [Crestal Network](https://audits.sherlock.xyz/contests/755)     |     1     |      -      |                    [Report](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/363)                     |    12th    | - |
 
 ## <img src="https://res.cloudinary.com/blackadam/image/upload/v1747148417/immunefi-icon_h53jrm.png" width=32 height=22> Immunefi
 
