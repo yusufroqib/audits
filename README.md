@@ -46,7 +46,7 @@ Always seeking new opportunities! Whether it's a job, smart contract development
 
 |                                          Contest                                          | High risk | Medium risk | Low risk |                                  Security Report                                    | Ranking | Team Name |
 | :---------------------------------------------------------------------------------------: | :-------: | :---------: | :---------: | :----------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Spectra](https://cantina.xyz/code/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/README.md) |     -     |      -      |      1      | [Coming soon]() |   -    |     -     |
+| [Spectra](https://immunefi.com/audit-competition/audit-comp-spectra-finance/) |     -     |      -      |      1      | [Coming soon]() |   -    |     -     |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
