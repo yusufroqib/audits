@@ -24,7 +24,7 @@ Always seeking new opportunities! Whether it's a job, smart contract development
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 8 High/Medium | 4 Highs  | 4 Mediums  |  3 Lows  |
+| 11 | 4 Highs  | 4 Mediums  |  3 Lows  |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
