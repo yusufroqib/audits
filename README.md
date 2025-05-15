@@ -13,7 +13,7 @@ Always seeking new opportunities! Whether it's a job, smart contract development
 
 - Twitter: [@rocco4real](https://twitter.com/roccoreal)
 - Telegram: [@yusufroqib](https://t.me/yusufroqib)
-- Email: [yusufroib@gmail.com](yusufroqib@gmail.com)
+- Email: [yusufroqib@gmail.com](yusufroqib@gmail.com)
 - Discord: yusufroqib
 
 # Summary - Roccomania
